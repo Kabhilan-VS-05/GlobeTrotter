@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817590125666",
+    "project_id": "globatrotter-2e059",
+    "storage_bucket": "globatrotter-2e059.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817590125666:android:c54c710481a594b6077d3b",
+        "android_client_info": {
+          "package_name": "com.globetrotter.globe_trotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817590125666-d6naghpj68cjttfn8jn1u16v35utdak4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC_hQ3hb8rlD_CSrkiFSXu4JAVmHmpAAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817590125666-d6naghpj68cjttfn8jn1u16v35utdak4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
